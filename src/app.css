@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-neutral-800 text-white
+}
+
+textarea {
+    @apply bg-neutral-800 text-white border border-zinc-700 outline-blue-500 resize-none p-2
+}
+
+input[type=password] {
+    @apply bg-neutral-800 text-white border border-zinc-700 outline-blue-500 p-2
+}
+
+select {
+    @apply bg-neutral-800 text-white border border-zinc-700 outline-blue-500 p-1
+}
+
+input[type=datetime-local] {
+    @apply bg-neutral-800 text-white border border-zinc-700 outline-blue-500 p-1
+}
