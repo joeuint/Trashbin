@@ -26,10 +26,7 @@
     <textarea name="pasteContent" id="pasteContent" class="w-full h-48" required />
     <hr class="my-5 border-t-neutral-700">
     <label for="pastePassword" class="text-xl font-medium">Password:</label>
-    <input type="password" name="pastePassword" id="pastePassword">
-    <br>
-    <label for="burnPaste" class="text-xl font-medium">Burn:</label>
-    <input type="checkbox" name="burnPaste" id="burnPaste">
+    <input class="mb-1" type="password" name="pastePassword" id="pastePassword">
     <br>
     <label for="pasteExpiry" class="text-xl font-medium">Expiry:</label>
     <input type="datetime-local" name="pasteExpiry" id="pasteExpiry">
