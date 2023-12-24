@@ -3,7 +3,7 @@
       <a href="/">Home</a>
       <a href="/tos">ToS</a>
       <a href="/about">About</a>
-      <a href="https://github.com/joseph-umana">Github</a>
+      <a href="https://github.com/joeuint">Github</a>
       <a href="/contact">Contact</a>
   </div>
   <p class="">Developed by Joseph Umana</p>
